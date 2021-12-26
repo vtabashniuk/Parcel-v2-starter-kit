@@ -1,3 +1,4 @@
 # Parcel-v2-starter-kit
 
-run in terminal mpn ci
+run in terminal
+npm ci
