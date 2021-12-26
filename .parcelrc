@@ -6,5 +6,9 @@
     "*.hbs": [
       "parcel-transformer-hbs"
     ]
-  }
+  },
+  "reporters": [
+    "@parcel/reporter-dev-server",
+    "parcel-reporter-clean-dist"
+  ]
 }
