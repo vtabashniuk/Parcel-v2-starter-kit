@@ -1,1 +1,3 @@
-# goit-js-hw-12-country-search-async
+# Parcel-v2-starter-kit
+
+run in terminal mpn ci
