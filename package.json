@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-hw-12-country-search-async",
+  "name": "parcel-v2-starter-kit",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel",
     "prebuild": "rmdir dist /s /q",
-    "build": "parcel build --public-url /goit-js-hw-12-country-search-async/",
+    "build": "parcel build --public-url /Parcel-v2-starter-kit/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -13,7 +13,7 @@
   "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vtabashniuk/goit-js-hw-12-country-search-async.git"
+    "url": "git+https://github.com/vtabashniuk/Parcel-v2-starter-kit.git"
   },
   "keywords": [
     "fetch",
@@ -23,9 +23,9 @@
   "author": "VT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vtabashniuk/goit-js-hw-12-country-search-async/issues"
+    "url": "https://github.com/vtabashniuk/Parcel-v2-starter-kit/issues"
   },
-  "homepage": "https://vtabashniuk.github.io/goit-js-hw-12-country-search-async",
+  "homepage": "https://vtabashniuk.github.io/Parcel-v2-starter-kit",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "gh-pages": "^3.2.3",
