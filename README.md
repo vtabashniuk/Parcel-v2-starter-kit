@@ -1,4 +1,4 @@
 # Parcel-v2-starter-kit
 
-run in terminal
+run in terminal:
 npm ci
