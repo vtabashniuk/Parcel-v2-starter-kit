@@ -3,6 +3,7 @@
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
+    "prestart": "rmdir dist /s /q",
     "start": "parcel",
     "prebuild": "rmdir dist /s /q",
     "build": "parcel build --public-url /Parcel-v2-starter-kit/",

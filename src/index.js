@@ -3,5 +3,5 @@ import onClickFoo from "./js/onClick";
 
 console.log("Hi this is consoled message");
 document.querySelector(".button").insertAdjacentHTML("afterbegin", template());
-document.querySelector(".button").addEventListener("click", onClickFoo);
+document.querySelector("[data-action=click]").addEventListener("click", onClickFoo);
 
